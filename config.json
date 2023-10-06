@@ -1,0 +1,8 @@
+{
+    "qianfan_conf": {
+        "url": "https://aip.baidubce.com/oauth/2.0/token",
+        "APIKey": "sCwSGWSgS84NRnEzdLWLmoiy",
+        "SecretKey": "2VTI1yvQKjjEDQ0vSFF8F1SgPZWzwsmq",
+        "access_token": "24.5657156baa09a0214c94e4f7a877fb31.2592000.1699150690.282335-40563067"
+    }
+}
